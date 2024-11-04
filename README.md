@@ -72,7 +72,7 @@ int rt_hw_sths34pf80_init(const char *name, struct rt_sensor_config *cfg);
 #### 初始化示例
 
 ```
-#include "sensor_st_sths34pf80.h"
+#include "sths34pf80_sensor_v1.h"
 
 int sths34pf80_port(void)
 {

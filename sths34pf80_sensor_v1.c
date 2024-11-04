@@ -7,7 +7,7 @@
  * Date           Author       Notes
  * 2023-01-29     Rick       the first version
  */
-#include "sensor_st_sths34pf80.h"
+#include "sths34pf80_sensor_v1.h"
 
 #define DBG_TAG "sensor.st.sths34pf80"
 #define DBG_LVL DBG_LOG
